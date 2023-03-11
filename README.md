@@ -1,3 +1,9 @@
+# This project is built with VS Code. To test and run use VS Code.
+
+## Gergely Vamosi
+
+## Feel free to use and redistribute.
+
 Database sample data:
 
 (Cassandra)
